@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->  
 <br />  
 <div align="center">  
-<a href="[/assets/3.png](/assets/3.png)">  
-<img src="" alt="Logo" width="80" height="80">  
+<a href="[https://justcallmezaii.github.io/sinkssys](https://justcalmezaaii.github.io/sinkssys)">  
+<img src="/assets/3.png" alt="Logo" width="80" height="80">  
 </a>  
   
 <h3 align="center">SINKSYS</h3>  
