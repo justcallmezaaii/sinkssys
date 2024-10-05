@@ -2,7 +2,7 @@
 <br />  
 <div align="center">  
 <a href="[https://justcallmezaii.github.io/sinkssys](https://justcalmezaaii.github.io/sinkssys)">  
-<img src="/assets/3.png" alt="Logo" width="80" height="80">  
+<img src="/assets/3.png" alt="Logo" width="150" height="150">  
 </a>  
   
 <h3 align="center">SINKSYS</h3>  
