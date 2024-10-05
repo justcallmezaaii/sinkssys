@@ -1,7 +1,6 @@
 <!-- PROJECT LOGO -->  
 <br />  
 <div align="center">  
-<a href="[https://justcallmezaii.github.io/sinkssys](https://justcalmezaaii.github.io/sinkssys)">  
 <img src="/assets/3.png" alt="Logo" width="150" height="150">  
 </a>  
   
@@ -83,12 +82,12 @@ Hello world!
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>  
   
-  
-### Top contributors:  
-  
-<a href="[https://github.com/justcallmezaaii/sinkssys/graphs/contributors](https://github.com/justcallmezaaii/sinkssys/graphs/contributors)">  
-<img src="[https://contrib.rocks/image?repo=justcallmezaaii/sinkssys](https://contrib.rocks/image?repo=justcallmezaaii/sinkssys)" alt="[contrib.rocks](http://contrib.rocks/) image" />  
-</a>  
+
+### Top contributors:
+
+<a href="https://github.com/justcallmezaaii/sinkssys/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=justcallmezaaii/sinkssys" alt="contrib.rocks image" />
+</a>
   
   
 <!-- CONTACT -->  
@@ -99,3 +98,6 @@ Zairen V. Lapid - zvl0248@students.uc-bcf.edu.ph
 Project Link: [[https://github.com/justcallmezaaii/sinkssys](https://github.com/justcallmezaaii/sinkssys)]
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+[contributors-url]: https://github.com/justcallmezaaii/sinkssys/graphs/contributors
