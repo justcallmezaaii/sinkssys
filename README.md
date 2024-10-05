@@ -10,8 +10,6 @@
 <p align="center">  
 This repository will explore using Tailwind CSS in creating login forms and tabulating data.  
 <br />  
-<a href="[https://github.com/justcallmezaaii/sinkssyys](https://github.com/justcallmezaaii/sinkssyys)"><strong>Explore the docs »</strong></a>  
-<br />  
 <br />  
 <a href="[https://justcallmezaaii.github.io/sinkssys/](https://justcallmezaaii.github.io/sinkssys/)">View Demo</a>  
 </p>  
@@ -80,7 +78,7 @@ npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
 Hello world!  
 </h1>  
 </body>  
-</html>  
+</html>
 ```  
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>  
@@ -98,6 +96,6 @@ Hello world!
   
 Zairen V. Lapid - zvl0248@students.uc-bcf.edu.ph  
   
-Project Link: [[https://github.com/justcallmezaaii/sinkssys](https://github.com/justcallmezaaii/sinkssys)]([https://github.com/justcallmezaaii/sinkssys](https://github.com/justcallmezaaii/sinkssys))  
+Project Link: [[https://github.com/justcallmezaaii/sinkssys](https://github.com/justcallmezaaii/sinkssys)]
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
