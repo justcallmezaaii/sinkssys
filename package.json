@@ -1,0 +1,16 @@
+{
+  "name": "sinkssys",
+  "version": "1.0.0",
+  "description": "<!-- PROJECT LOGO -->  \r <br />  \r <div align=\"center\">  \r <img src=\"/assets/3.png\" alt=\"Logo\" width=\"150\" height=\"150\">  \r </a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "build:css": "npx tailwindcss -i ./input.css -o ./output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.13"
+  }
+}

@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login - Sinks R Us</title>
+  <link href="./output.css" rel="stylesheet">
+  <link rel="shortcut icon" href="/assets/logo3.1.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bungee&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap" rel="stylesheet">
+</head>
+
+<body class="flex items-center justify-center h-screen font-sans bg-gradient-to-r from-primary via-secondary to-tertiary bg-size-200 animate-gradient">
+  <div class="bg-secondary bg-opacity-75 p-8 rounded-lg shadow-md w-full max-w-md">
+    <h1 class="text-2xl text-gray-700 font-bold mb-6 text-center">Login</h1>
+    <form action="employee_list.html" method="GET">
+      <div class="mb-4">
+        <label for="username" class="block text-sm font-medium text-gray-700">Username</label>
+        <input type="text" id="username" name="username" class="mt-1 p-2 w-full border rounded-md font-mono" required>
+      </div>
+      <div class="mb-4">
+        <label for="password" class="block text-sm font-medium text-gray-700">Password</label>
+        <input type="password" id="password" name="password" class="mt-1 p-2 w-full border rounded-md font-mono" required>
+      </div>
+      <button type="submit" class="w-full bg-gray-800 text-white p-2 rounded-md hover:bg-gray-500">Login</button>
+    </form>
+  </div>
+</body>
+</html>
